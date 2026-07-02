@@ -28,6 +28,6 @@ python calculator.py
 
 The program:
 - Takes two numbers from the user
-- Asks for an operation (+, -, *, /)
+- Asks for an operation (+, -, *, /, %, **)
 - Performs the calculation using conditions or functions
 - Prints the result
