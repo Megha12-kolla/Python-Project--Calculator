@@ -31,5 +31,3 @@ The program:
 - Asks for an operation (+, -, *, /)
 - Performs the calculation using conditions or functions
 - Prints the result
-
-Output: 15
