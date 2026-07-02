@@ -1,5 +1,3 @@
-# Python-Projest--Caluclator
- A simple caluclator using python
 a = int(input("Enter the first number: "))
 b = int(input("Enter the second number: "))
 c = input("Enter the arithmetic operator (+, -, *, /): ")
